@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Jessica Grazulis 
+## Hi there 👋, I'm Jessica
 ![](https://visitor-badge.laobi.icu/badge?page_id=jgrazulis.jgrazulis) 
 [![Github](https://img.shields.io/github/followers/jgrazulis?label=Follow&style=social)](https://github.com/jgrazulis)
 
