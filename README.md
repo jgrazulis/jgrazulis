@@ -5,7 +5,6 @@
 
 ![giphy-2](https://user-images.githubusercontent.com/86636152/161603401-70cab38e-0522-4c8b-8152-b1b106f6290d.gif)
 
-- 🌱 I’m currently learning how to consume and expose APIs using Ruby on Rails
 - 📫 How to reach me: jlgrazulis@gmail.com
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I've been skydiving 6 times
